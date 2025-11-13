@@ -37,29 +37,28 @@
   }
 }
 
-/* --- ESTILOS NUEVOS PARA LOS FORMULARIOS --- */
 .form-section {
   border: 1px solid #555;
   border-radius: 8px;
   padding: 20px;
   margin-top: 20px;
   background-color: #333;
-  width: 80%; /* Para que no ocupe toda la pantalla */
-  max-width: 600px; /* Un ancho máximo */
+  width: 80%;
+  max-width: 600px;
 }
 
 .form-section h3 {
   margin-top: 0;
-  color: #61dafb; /* Color azul de React */
+  color: #61dafb;
 }
 
 input[type="text"] {
   padding: 10px;
-  margin: 5px; /* Espacio entre inputs */
+  margin: 5px;
   border-radius: 4px;
   border: none;
   font-size: 16px;
-  width: 80%; /* Para que ocupen un buen ancho */
+  width: 80%;
 }
 
 button {
