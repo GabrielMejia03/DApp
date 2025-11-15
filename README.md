@@ -1,7 +1,7 @@
 # DApp
-Aplicación desarrollada por:
-Jesús Homero Galindo Gaytán
-Martín Gabriel Mejía Hutado
+Aplicación desarrollada por: <br>
+- Jesús Homero Galindo Gaytán 1899296 <br>
+- Martín Gabriel Mejía Hutado 2086046
 
 El propósito es dearrollar una aplicación descentralizada que que utilizará blockchain de manera local para poder gaurdar la información firmada, esto usando usando con una wallet de software que se usó Metamask, todo esto simulado en los registros universitarios.
 
